@@ -1,0 +1,8 @@
+
+we need to go and create the APIs Authentication and authorization
+
+
+POST:  /joHunter_app/api/v1/signup // register the user
+POST:  / jobHunter_app/api/v1/signin  // login
+
+return me the JWT token

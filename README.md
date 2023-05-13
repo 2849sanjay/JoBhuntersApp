@@ -15,4 +15,9 @@ Jobhunters application
   then need to config the email and user name bellow follow commands
   i.  --> git config --global user.email "2849sanjay@gmail.com"
   ii. --> git config --global user.name "Sanjay Kumar Verma" 
+  then..
+  11. git add .
+  12. git commit -m "some code update"
+  13. git push origin branchName  // now latest code push on github and check the github found each every code uptodate
+14. 
 
